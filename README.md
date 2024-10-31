@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 Olá, eu sou o Kevin Hirata!
 **Desenvolvedor e Entusiasta de Tecnologia**
 
@@ -6,3 +7,4 @@
 
 ![Linguagem](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<div/>
